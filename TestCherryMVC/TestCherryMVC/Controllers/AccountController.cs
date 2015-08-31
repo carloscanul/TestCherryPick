@@ -44,6 +44,8 @@ namespace TestCherryMVC.Controllers
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
+            //Dummy test 1
+
             ViewBag.ReturnUrl = returnUrl;
             return View();
         }
