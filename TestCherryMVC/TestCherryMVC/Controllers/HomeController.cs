@@ -15,6 +15,7 @@ namespace TestCherryMVC.Controllers
 
         public ActionResult About()
         {
+            //Other dummy test
             ViewBag.Message = "Your application description page.";
 
             return View();
