@@ -5,6 +5,8 @@ namespace TestCherryMVC
 {
     public class BundleConfig
     {
+        //One more dummy test
+
         // For more information on bundling, visit http://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
